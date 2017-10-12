@@ -1,0 +1,12 @@
+c:\users\yaniv\documents\visual studio 2015\Projects\iPhone7_ALAM_DUTY\iPhone7_ALAM_DUTY\bin\Debug\iPhone7_ALAM_DUTY.exe.config
+C:\Users\Yaniv\Documents\Visual Studio 2015\Projects\iPhone7_ALAM_DUTY\iPhone7_ALAM_DUTY\obj\Debug\iPhone7_ALAM_DUTY.csprojResolveAssemblyReference.cache
+C:\Users\Yaniv\Documents\Visual Studio 2015\Projects\iPhone7_ALAM_DUTY\iPhone7_ALAM_DUTY\bin\Debug\iPhone7_ALAM_DUTY.exe
+C:\Users\Yaniv\Documents\Visual Studio 2015\Projects\iPhone7_ALAM_DUTY\iPhone7_ALAM_DUTY\bin\Debug\iPhone7_ALAM_DUTY.pdb
+C:\Users\Yaniv\Documents\Visual Studio 2015\Projects\iPhone7_ALAM_DUTY\iPhone7_ALAM_DUTY\obj\Debug\iPhone7_ALAM_DUTY.exe
+C:\Users\Yaniv\Documents\Visual Studio 2015\Projects\iPhone7_ALAM_DUTY\iPhone7_ALAM_DUTY\obj\Debug\iPhone7_ALAM_DUTY.pdb
+C:\Git\iPhone_ALAM\iPhone7_ALAM_DUTY\bin\Debug\iPhone7_ALAM_DUTY.exe.config
+C:\Git\iPhone_ALAM\iPhone7_ALAM_DUTY\obj\Debug\iPhone7_ALAM_DUTY.exe
+C:\Git\iPhone_ALAM\iPhone7_ALAM_DUTY\obj\Debug\iPhone7_ALAM_DUTY.pdb
+C:\Git\iPhone_ALAM\iPhone7_ALAM_DUTY\bin\Debug\iPhone7_ALAM_DUTY.exe
+C:\Git\iPhone_ALAM\iPhone7_ALAM_DUTY\bin\Debug\iPhone7_ALAM_DUTY.pdb
+C:\Git\iPhone_ALAM\iPhone7_ALAM_DUTY\obj\Debug\iPhone7_ALAM_DUTY.csprojResolveAssemblyReference.cache
