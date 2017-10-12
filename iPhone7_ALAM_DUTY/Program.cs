@@ -21,7 +21,7 @@ namespace iPhone7_ALAM_DUTY
                 var IndexofIphone7 = htmlCode.IndexOf("iPhone 7 32GB");
                 var StringContainsOutOfStock = htmlCode.Substring(IndexofIphone7, 248);
                 if (StringContainsOutOfStock.Contains("outOfStock"))
-                    Console.WriteLine("Still out of stock");
+                    Email.sendEmail();
                 else
                     Email.sendEmail();
 
