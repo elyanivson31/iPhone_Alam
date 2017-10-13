@@ -5,6 +5,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace iPhone7_ALAM_DUTY
 {
     class Program
@@ -21,7 +22,7 @@ namespace iPhone7_ALAM_DUTY
                 var IndexofIphone7 = htmlCode.IndexOf("iPhone 7 32GB");
                 var StringContainsOutOfStock = htmlCode.Substring(IndexofIphone7, 248);
                 if (StringContainsOutOfStock.Contains("outOfStock"))
-                    Email.sendEmail();
+                    Console.WriteLine("Still out of stock");
                 else
                     Email.sendEmail();
 
